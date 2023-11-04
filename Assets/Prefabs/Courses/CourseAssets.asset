@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 183757d65198e00409e7848673ae2ba3, type: 3}
+  m_Name: CourseAssets
+  m_EditorClassIdentifier: 
+  courseStart: {fileID: 8716757764059430712, guid: e6ca1898159672f44b3370de682f69bc,
+    type: 3}
+  courses:
+  - {fileID: 4339841598775714279, guid: 052d7901a9494bc40afd66df0d0c2efb, type: 3}
+  - {fileID: 4339841598775714279, guid: aef06568a7ce6974a9b0985f455975e5, type: 3}
+  - {fileID: 4339841598775714279, guid: bde7b0b842aa55449897e4231881a86e, type: 3}
+  - {fileID: 4339841598775714279, guid: 4d8cc0cf3eead684185a802e4f953ae8, type: 3}
+  - {fileID: 4339841598775714279, guid: 8da6cc1fe0b06aa4a92816d8142b312e, type: 3}
+  - {fileID: 4339841598775714279, guid: b1218703c846b2a43831529786d26d84, type: 3}
+  - {fileID: 4339841598775714279, guid: cc7ff107438ff3f4b80f44a7d9a075f2, type: 3}
+  - {fileID: 4339841598775714279, guid: 0916f1e8f829f704f9741ddaf811c04a, type: 3}
+  - {fileID: 4339841598775714279, guid: 4678f08cc3ccd294c8350873955f860d, type: 3}
+  - {fileID: 4339841598775714279, guid: a5adffb5bc65b87428ac40785d24fd10, type: 3}
+  - {fileID: 4339841598775714279, guid: 92236fca38b2dec4981b61b072121aa0, type: 3}
+  - {fileID: 4339841598775714279, guid: ffde0b4a53ecb5743993943cedc81241, type: 3}
+  - {fileID: 4339841598775714279, guid: fcfb61a4fda0ab941ba46be921276c44, type: 3}
+  - {fileID: 4339841598775714279, guid: 5aab8fee9f83af148b496d9d202f74df, type: 3}
+  - {fileID: 4339841598775714279, guid: 5d84c8057a4e633479ea030923d4053c, type: 3}
+  debug: -1

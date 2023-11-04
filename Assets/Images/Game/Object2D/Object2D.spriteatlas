@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Object2D
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 264522e01123ee04a9ba1742e68ec813, type: 3}
+    - {fileID: 2800000, guid: c25a08a3b30cd954da1e06e83e09c723, type: 3}
+    - {fileID: 2800000, guid: 622fc8a0cf8e7a24fa3e4e9e8046b37d, type: 3}
+    - {fileID: 2800000, guid: 78425a762fcea4f44a273596da4815a5, type: 3}
+    - {fileID: 2800000, guid: 6e5d9819db642284f873116239d22f69, type: 3}
+    - {fileID: 2800000, guid: 007b6d756e26c81449e58077ac3d0fc2, type: 3}
+    - {fileID: 2800000, guid: cd0a80133a041934f85832ae173ec577, type: 3}
+    - {fileID: 2800000, guid: 0ef78f78cdb1e2a4ca4879b6f3ceb077, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 622fc8a0cf8e7a24fa3e4e9e8046b37d, type: 3}
+  - {fileID: 21300000, guid: 264522e01123ee04a9ba1742e68ec813, type: 3}
+  - {fileID: 21300000, guid: cd0a80133a041934f85832ae173ec577, type: 3}
+  - {fileID: 21300000, guid: c25a08a3b30cd954da1e06e83e09c723, type: 3}
+  - {fileID: 21300000, guid: 007b6d756e26c81449e58077ac3d0fc2, type: 3}
+  - {fileID: 21300000, guid: 78425a762fcea4f44a273596da4815a5, type: 3}
+  - {fileID: 21300000, guid: 0ef78f78cdb1e2a4ca4879b6f3ceb077, type: 3}
+  - {fileID: 21300000, guid: 6e5d9819db642284f873116239d22f69, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - obstacle1
+  - energy
+  - bombDoor
+  - fence
+  - exitDoor
+  - conveyor
+  - fireDoor
+  - net
+  m_RenderDataMap: {}
+  m_Tag: Object2D
+  m_IsVariant: 0
